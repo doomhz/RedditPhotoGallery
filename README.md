@@ -1,4 +1,4 @@
 RedditPhotoGalllery
 ===================
 
-Browse your favorite Reddit pics on your iPhone.
+Browse your favourite Reddit pics on your iPhone.
